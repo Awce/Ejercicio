@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name" : "APPELL PETE CORP",
+        "price" : "0.000000",
+        "symbol" : "APPL",
+        "ts" : "0",
+        "type" : "equity",
+        "utctime" : "1970-01-01T00:00:00+0000",
+        "volume" : "0"
+    },
+    {
+        "id": 2,
+        "name" : "Dow Jones Industrial Average",
+        "price" : "17673.949219",
+        "symbol" : "^DJI",
+        "ts" : "1421947447",
+        "type" : "index",
+        "utctime" : "2015-01-22T17:24:07+0000",
+        "volume" : "43667613"
+    },
+    {
+        "id": 3,
+        "name" : "Google Inc.",
+        "price" : "531.679993",
+        "symbol" : "GOOGL",
+        "ts" : "1421947444",
+        "type" : "equity",
+        "utctime" : "2015-01-22T17:24:04+0000",
+        "volume" : "1398844"
+    },
+    {
+        "id": 4,
+        "name" : "NASDAQ Composite",
+        "price" : "4710.076172",
+        "symbol" : "^IXIC",
+        "ts" : "1421947448",
+        "type" : "index",
+        "utctime" : "2015-01-22T17:24:08+0000",
+        "volume" : "0"
+    }
+]
